@@ -19,6 +19,7 @@ import com.mkyong.model.User;
  * Query example
  * *************
  * @see https://www.mkyong.com/mongodb/spring-data-mongodb-query-document/
+ *      http://www.dineshonjava.com/2013/02/spring-data-mongodb-query-document.html#.WLlPEn8qdi8
  *
  * http://stackoverflow.com/questions/28958789/connecting-to-mongodb-3-0-with-java-spring
  * http://www.programcreek.com/java-api-examples/index.php?api=org.springframework.data.mongodb.core.query.Criteria
